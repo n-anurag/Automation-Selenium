@@ -1,0 +1,19 @@
+# IDE configs
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Screenshots or temp files (if not needed in repo)
+*.png
+*.jpg
+*.jpeg
+
+# Ignore test screenshots (optional)
+pages/toast_screenshot.png
+
+pages/login.py

@@ -1,0 +1,20 @@
+# Python cache and IDE stuff
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code or PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+
+# Data (if it's generated or sensitive)
+data/
+
+# Ignore specific files
+src/Login.py
+src/Filter.py
+config.py
