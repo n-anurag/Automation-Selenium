@@ -1,5 +1,4 @@
-# Ecommerce-Automation
-A Ecommerce website Open Cart features are automated using Selenium with Python 
+
 📌 Structure for Your Amazon Web Scraper 1️⃣ Project Title & Description Title: Amazon Web Scraper Description: A Python-based web scraper that extracts product titles, prices, and links from Amazon product listing pages.
 
 2️⃣ Installation & Setup pip install beautifulsoup4 pandas
